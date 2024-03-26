@@ -1,10 +1,9 @@
-## Public & Free API
+## WhyApi 接口大全
 
 A collective list of free APIs
 
 提供更多更稳定的免费api，接口持续更新中...
-
-![image](https://github.com/ytanck/free-public-apis/assets/69585768/d7518505-5ac5-4864-8ea6-e6911f01ec4e)
+![image](https://github.com/ytanck/free-apis/assets/69585768/95b64236-836d-4d83-808f-c7e903c99ee3)
 
 ![image](https://github.com/ytanck/free-public-apis/assets/69585768/10b8bc56-f763-4fef-a3b1-7c38f674062c)
 
