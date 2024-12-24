@@ -20,14 +20,8 @@ A collective list of free APIs
 
 [宠物新闻](https://apis.whyta.cn/docs/tx-petnews.html)
 
-[NBA赛事数据](https://apis.whyta.cn/docs/js-nba-data.html)
-
 
 ## 金融理财
-
-[股票数据](https://apis.whyta.cn/docs/finance.html)
-
-[股票列表及详情](https://apis.whyta.cn/docs/js-finance.html)
 
 [汇率查询](https://apis.whyta.cn/docs/js-rate.html)
 
@@ -46,6 +40,9 @@ A collective list of free APIs
 [彩虹屁](https://apis.whyta.cn/docs/tx-caihongpi.html)
 
 [舔狗日记](https://apis.whyta.cn/docs/tx-tiangou.html)
+
+[打工人语录](https://apis.whyta.cn/docs/tx-dgryl.html)
+
 ## 生活常用
 
 [每日一句](https://apis.whyta.cn/docs/tx-oneday.html)
@@ -78,6 +75,8 @@ A collective list of free APIs
 [星座运势](https://apis.whyta.cn/docs/constellation.html)
 
 ## 万能工具
+[物流地址解析](https://apis.whyta.cn/docs/tx-addressparse.html)
+
 [手机归属地查询](https://apis.whyta.cn/docs/js-ip.html)
 
 [IP查询](https://apis.whyta.cn/docs/js-ip.html)
