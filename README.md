@@ -16,7 +16,7 @@ A collective list of free APIs
 
 [全网热搜榜](https://apis.whyta.cn/docs/tx-hotnews.html)
 
-[头条热搜榜](https://apis.whyta.cn/docs/tx-toutiaohot.html)
+[头条热榜](https://apis.whyta.cn/docs/toutiao.html)
 
 [宠物新闻](https://apis.whyta.cn/docs/tx-petnews.html)
 
@@ -30,6 +30,8 @@ A collective list of free APIs
 [彩票开奖记录](https://apis.whyta.cn/docs/js-goldprice.html)
 
 ## 语录
+
+[每日一言](https://apis.whyta.cn/docs/yiyan.html)
 
 [渣男语录](https://apis.whyta.cn/docs/tx-zhanan.html)
 
