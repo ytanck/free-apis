@@ -3,12 +3,18 @@
 A collective list of free APIs
 
 提供更多更稳定的免费api，接口持续更新中...
-![image](https://github.com/ytanck/free-apis/assets/69585768/95b64236-836d-4d83-808f-c7e903c99ee3)
+
+
+![image](https://github.com/user-attachments/assets/adeb1a74-0fa1-4427-abe4-2ccf72f1b05b)
 
 ![image](https://github.com/ytanck/free-public-apis/assets/69585768/10b8bc56-f763-4fef-a3b1-7c38f674062c)
 
 
 ## 新闻媒体
+
+[头条热榜](https://apis.whyta.cn/docs/my-toutiao.html)
+
+[华尔街见闻](https://apis.whyta.cn/docs/my-wallstreet.html)
 
 [每日简报](https://apis.whyta.cn/docs/tx-bulletin.html)
 
